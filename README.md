@@ -4,6 +4,8 @@ StackChan on Raspberry Pi Mouse
 - [M5Stack/StackChan](https://docs.m5stack.com/en/StackChan)
 - [RT/Raspberry Pi Mouse V3](https://rt-net.jp/products/raspberrypimousev3/)
 
+<img width="712" height="597" alt="StackChan on Raspberry Pi Mouse" src="https://github.com/user-attachments/assets/7004b34e-7af4-44ba-b77c-c39a2fbeb0d1" />
+
 ## Development Environment
 - Ubuntu 24.04 LTS
 - ROS 2 Jazzy
