@@ -1,3 +1,6 @@
+# reference:
+# https://github.com/opencv/opencv/blob/master/samples/python/facedetect.py
+
 import rclpy
 from rclpy.node import Node
 from sensor_msgs.msg import CompressedImage
